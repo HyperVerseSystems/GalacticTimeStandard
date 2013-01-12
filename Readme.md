@@ -28,13 +28,13 @@ Since using this number, which as of the beginning of 2013 was over
 gradations were devised for an easy conveyance of time. The table 
 below will show how seconds are divided, and their equivalent Earth 
 Periods.
-<table border>
+<table>
 <tr><td>Number of seconds</td><td>Power of Ten</td><td>Earth Period</td></tr>
 <tr><td>1</td><td>10<sup>0</sup></td><td>1 second</td></tr>
-<tr><td>1000</td><td>10<sup>3</sup></td><td>About 17 Minutes</td></tr>
-<tr><td>100000</td><td>10<sup>5</sup></td><td>About 1 Day</td></tr>
-<tr><td>10000000</td><td>10<sup>7</sup></td><td>About 1 Season (quarter year)</td></tr>
-<tr><td>1000000000</td><td>10<sup>9</sup></td><td>About 33 years</td></tr>
+<tr><td>1,000</td><td>10<sup>3</sup></td><td>About 17 Minutes</td></tr>
+<tr><td>100,000</td><td>10<sup>5</sup></td><td>About 1 Day</td></tr>
+<tr><td>10,000,000</td><td>10<sup>7</sup></td><td>About 1 Season (quarter year)</td></tr>
+<tr><td>1,000,000,000</td><td>10<sup>9</sup></td><td>About 33 years</td></tr>
 </table>
 
 Each of these divisions is separated by a period (.) thus, a rough 
